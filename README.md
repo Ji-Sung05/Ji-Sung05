@@ -15,3 +15,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Intellij](https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+
+<br>
+<div align=center>
+<h3>🏆 Baekjoon solved rank 🏆</h3>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwltjd0505)](https://solved.ac/dlwltjd0505)
+</div>
+
+<div align=center>
+<h3>📖 Git 📖</h3>
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-Sung05&hide=contribs,prs&show_icons=true&theme=graywhite)
+</div>
